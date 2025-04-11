@@ -2,5 +2,6 @@
   "minSupportedVersion": "1.7",
   "forceUpdate": true,
   "updateTitle": "Update Required",
-  "updateMessage": "A critical update is required to continue using this app."
+  "updateMessage": "A critical update is required to continue using this app.",
+  "currentVersionAppStoreID": "1041169460"
 }
