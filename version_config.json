@@ -1,5 +1,5 @@
 {
-  "min_supported_version": "1.6.2",
+  "min_supported_version": "1.7",
   "force_upgrade": true,
   "upgrade_message": "A critical update is required to continue using this app."
 }
