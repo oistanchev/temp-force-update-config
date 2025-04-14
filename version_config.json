@@ -1,5 +1,6 @@
 {
-  "minSupportedVersion": "1.7",
+  "minSupportediOSVersion": "1.7",
+  "minSupportedAndroidVersion": "1.2",
   "forceUpdate": true,
   "updateTitle": "Update Required",
   "updateMessage": "A critical update is required to continue using this app.",
