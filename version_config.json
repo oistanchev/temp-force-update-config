@@ -1,7 +1,7 @@
 {
   "minSupportediOSVersion": "1.7",
   "minSupportedAndroidVersion": "1.2.2",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "updateTitle": "Update Required",
   "updateMessage": "A critical update is required to continue using this app.",
   "actionButtonTitle": "Update now",
